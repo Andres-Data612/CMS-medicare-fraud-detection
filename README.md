@@ -254,7 +254,8 @@ The dashboard contains **5 interactive pages:**
 
 | Page | Description |
 |------|-------------|
-| Project Overview | Landing page with project summary and key stats |
+| Project Overview | Landing page with project summary and key stats 
+!(CMS-medicare-fraud-detecttion)Dashboard Images/Project Overview.png |
 | Executive Summary | KPI cards, risk tier donut, top specialties and states |
 | Provider Drilldown | Searchable table of all providers with risk scores and flags |
 | Geographic Analysis | Map and state-level breakdown of high risk providers |
